@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.credentials/
+credentials.json
+*.ipa
+*.mobileprovision
+.DS_Store
